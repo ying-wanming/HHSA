@@ -2,13 +2,16 @@
 The Holo-Hilbert spectral analysis (HHSA) for rotation machine fault diagnosis
 
 The original method was proposed by Norden E. Huang in 2016:
+
 Huang N E, Hu K, Yang A C C, et al. On Holo-Hilbert spectral analysis: a full informational spectral representation for nonlinear and non-stationary data[J]. Philosophical Transactions of the Royal Society A: Mathematical, Physical and Engineering Sciences, 2016, 374(2065): 20150206.
+
 
 The original Python code for HHSA can be acquired from: https://emd.readthedocs.io/en/latest/emd_tutorials/02_spectrum_analysis/emd_tutorial_02_spectrum_02_holospectrum.html#sphx-glr-emd-tutorials-02-spectrum-analysis-emd-tutorial-02-spectrum-02-holospectrum-py
 
-The original Matlab code for HHSA can be acquired from: https://osf.io/mg6zd/
 
-The description of the paper:Liang W K, Tseng P, Yeh J R, et al. Frontoparietal beta amplitude modulation and its interareal cross-frequency coupling in visual working memory[J]. Neuroscience, 2021, 460: 69-87.
+The original Matlab code for HHSA can be acquired from: https://osf.io/mg6zd/
+The description of the paper: Liang W K, Tseng P, Yeh J R, et al. Frontoparietal beta amplitude modulation and its interareal cross-frequency coupling in visual working memory[J]. Neuroscience, 2021, 460: 69-87.
+
 
 The related work for rotation machine fault diagnosis based on HHSA can be found in the following papers:
 
