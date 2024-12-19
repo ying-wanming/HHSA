@@ -22,6 +22,19 @@ The related work for rotation machine fault diagnosis based on HHSA can be found
 
 [3] Ying W, Zheng J, Pan H, et al. Use of Holo-Hilbert spectral analysis to reveal the amplitude modulation features of faulty rolling bearing signals[J]. Journal of Vibration and Control, 2023, 29(21-22): 5067-5077.
 
+[4] Zheng J, Ying W, Pan H, et al. Improved Holo-Hilbert Spectrum Analysis-Based Fault Diagnosis Method for Rotating Machines[J]. Jixie Gongcheng Xuebao/Journal of Mechanical Engineering, 2023./[1]郑近德,应万明,潘海洋,等.基于改进全息希尔伯特谱分析的旋转机械故障诊断方法[J].机械工程学报,2023,59(01):162-174.
+
+
 If you have any questions, please don't hesitate to contact with wmying033@126.com 
 
+HHSSA method:
+![1-s2 0-S0888327022011372-gr2_lrg](https://github.com/user-attachments/assets/bf4cc533-951b-4249-9b7d-203fc725a501)
+
+
+OFHHSA method:
+![1-s2 0-S0019057824000193-gr2_lrg](https://github.com/user-attachments/assets/080ae96d-6b45-462d-bce8-56eca486741a)
+
+
+IHHSA method:
+![image](https://github.com/user-attachments/assets/b1dbc268-4864-4d47-8c3e-83537a8702b8)
 
